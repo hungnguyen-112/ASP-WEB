@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\Desktop\\BaiTap02B\\BaiTap02B.csproj": {}
+    "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\BaiTap02B.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\Desktop\\BaiTap02B\\BaiTap02B.csproj": {
+    "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\BaiTap02B.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\Desktop\\BaiTap02B\\BaiTap02B.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\BaiTap02B.csproj",
         "projectName": "BaiTap02B",
-        "projectPath": "C:\\Users\\Asus\\Desktop\\BaiTap02B\\BaiTap02B.csproj",
+        "projectPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\BaiTap02B.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\Desktop\\BaiTap02B\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
