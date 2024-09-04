@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap02b\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap02b\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|solutionrelative:controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap02b\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|solutionrelative:views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap02b\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap02b\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap02b\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{D867D1A3-60EF-4819-B726-AA93F50D27FD}|BaiTap02B.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:55:53.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:33:30.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T07:31:55.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:24:46.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-28T07:22:08.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap02B\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T07:19:56.498Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
