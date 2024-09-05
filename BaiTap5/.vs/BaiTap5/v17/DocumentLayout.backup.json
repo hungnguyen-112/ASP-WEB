@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap5\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|solutionrelative:controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap5\\models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|solutionrelative:models\\theloaiviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap5\\views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|solutionrelative:views\\theloai\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitap5\\.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{28917D4A-8980-4BD6-BF7B-FDEAC44D4C96}|BaiTap5.csproj|solutionrelative:.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Views\\TheLoai\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Views\\TheLoai\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Views\\TheLoai\\Index2.cshtml",
+              "RelativeToolTip": "Views\\TheLoai\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-04T07:52:01.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TheLoaiViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Models\\TheLoaiViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TheLoaiViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Models\\TheLoaiViewModel.cs",
+              "RelativeToolTip": "Models\\TheLoaiViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:48:12.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:37:48.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T07:36:49.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitinore",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\.gitinore",
+              "RelativeDocumentMoniker": ".gitinore",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTap5\\.gitinore",
+              "RelativeToolTip": ".gitinore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T07:36:07.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
