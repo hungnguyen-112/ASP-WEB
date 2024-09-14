@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitapkiemtra01\\models\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|solutionrelative:models\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitapkiemtra01\\views\\sanpham\\baitap2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|solutionrelative:views\\sanpham\\baitap2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitapkiemtra01\\views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|solutionrelative:views\\taikhoan\\dangky.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitapkiemtra01\\models\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|solutionrelative:models\\sanphamviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitapkiemtra01\\models\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|solutionrelative:models\\taikhoancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitapkiemtra01\\models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|solutionrelative:models\\taikhoanviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\baitapkiemtra01\\.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50FD1D34-C932-4935-9924-0EB9FCE01A81}|BaiTapKiemTra01.csproj|solutionrelative:.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPhamViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SanPhamViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\SanPhamViewModel.cs",
+              "RelativeToolTip": "Models\\SanPhamViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:10:40.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiTap2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Views\\SanPham\\BaiTap2.cshtml",
+              "RelativeDocumentMoniker": "Views\\SanPham\\BaiTap2.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Views\\SanPham\\BaiTap2.cshtml",
+              "RelativeToolTip": "Views\\SanPham\\BaiTap2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T07:06:45.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "Models\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\SanPhamController.cs",
+              "RelativeToolTip": "Models\\SanPhamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T07:05:32.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaiKhoanViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\TaiKhoanViewModel.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\TaiKhoanViewModel.cs",
+              "RelativeToolTip": "Models\\TaiKhoanViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:20:55.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DangKy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeDocumentMoniker": "Views\\TaiKhoan\\DangKy.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Views\\TaiKhoan\\DangKy.cshtml",
+              "RelativeToolTip": "Views\\TaiKhoan\\DangKy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T06:16:07.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaiKhoanController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\TaiKhoanController.cs",
+              "RelativeDocumentMoniker": "Models\\TaiKhoanController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\Models\\TaiKhoanController.cs",
+              "RelativeToolTip": "Models\\TaiKhoanController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T06:14:39.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": ".gitinore",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\.gitinore",
+              "RelativeDocumentMoniker": ".gitinore",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\.gitinore",
+              "RelativeToolTip": ".gitinore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-14T06:11:40.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
