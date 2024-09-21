@@ -5643,11 +5643,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKT01\\BaiTapKiemTra01.csproj",
       "projectName": "BaiTapKiemTra01",
-      "projectPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\BaiTapKiemTra01.csproj",
+      "projectPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKT01\\BaiTapKiemTra01.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKiemTra01\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\BaiTapKT01\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
