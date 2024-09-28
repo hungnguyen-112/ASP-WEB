@@ -1,0 +1,42 @@
+﻿@model LopHoc
+
+<div class="container">
+    <h3> Xóa lớp học</h3>
+    <form method="post" asp-action="DeleteConfirm">
+        <input asp-for="Id" type="hidden" />
+        <div asp-validation-summary="All" class="text-danger"></div>
+        <!-- Tên lớp học -->
+        <div class="form-group">
+            <label asp-for="TenLopHoc"> Tên lớp học </label>
+            <input asp-for="TenLopHoc" type="text" class="form-control" />
+            <span asp-validation-for="TenLopHoc" class="text-danger"></span>
+        </div>
+
+        <!-- Năm nhập học -->
+        <div class="form-group">
+            <label asp-for="NamNhapHoc"> Năm nhập học </label>
+            <input asp-for="NamNhapHoc" type="number" class="form-control" />
+            <span asp-validation-for="NamNhapHoc" class="text-danger"></span>
+        </div>
+
+        <!-- Năm ra trường -->
+        <div class="form-group">
+            <label asp-for="NamRaTruong"> Năm ra trường </label>
+            <input asp-for="NamRaTruong" type="number" class="form-control" />
+            <span asp-validation-for="NamRaTruong" class="text-danger"></span>
+        </div>
+
+        <!-- Số lượng sinh viên -->
+        <div class="form-group">
+            <label asp-for="SoLuongSinhVien"> Số lượng sinh viên </label>
+            <input asp-for="SoLuongSinhVien" type="number" class="form-control" />
+            <span asp-validation-for="SoLuongSinhVien" class="text-danger"></span>
+        </div>
+
+</div>
+
+@section Scripts {
+    @{
+        <partial name="_ValidationScriptsPartial" />
+    }
+}

@@ -1,0 +1,367 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\controllers\\sanphamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\sanpham\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\sanpham\\upsert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\models\\sanpham.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\controllers\\theloaicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\theloai\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\customer\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\areas\\admin\\views\\theloai\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\data\\migrations\\20240926002800_taotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\data\\migrations\\20240926002800_taotheloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\models\\theloai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|c:\\users\\asus\\onedrive\\documents\\ltweb\\asp-web\\project\\project\\.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B63F8C46-64C9-4A9A-8BB4-681C283C28D4}|project\\project.csproj|solutionrelative:project\\.gitinore||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Upsert.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\SanPham\\Upsert.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:46:22.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\SanPham\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-28T06:08:04.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SanPhamController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Controllers\\SanPhamController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\SanPhamController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Controllers\\SanPhamController.cs",
+              "RelativeToolTip": "project\\Controllers\\SanPhamController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAowD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-28T05:32:44.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SanPham.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Models\\SanPham.cs",
+              "RelativeDocumentMoniker": "project\\Models\\SanPham.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Models\\SanPham.cs",
+              "RelativeToolTip": "project\\Models\\SanPham.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:02:14.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\appsettings.json",
+              "RelativeDocumentMoniker": "project\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\appsettings.json",
+              "RelativeToolTip": "project\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-26T00:17:51.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "project\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "project\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:25:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Details.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\TheLoai\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Details.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\TheLoai\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:26:59.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\TheLoai\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:27:02.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\TheLoai\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:27:05.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TheLoaiController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Controllers\\TheLoaiController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\TheLoaiController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Controllers\\TheLoaiController.cs",
+              "RelativeToolTip": "project\\Controllers\\TheLoaiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:24:04.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:27:11.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:27:22.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "project\\Areas\\Customer\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:46:58.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Program.cs",
+              "RelativeDocumentMoniker": "project\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Program.cs",
+              "RelativeToolTip": "project\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:16:42.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\TheLoai\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:26:54.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "RelativeDocumentMoniker": "project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "RelativeToolTip": "project\\Areas\\Admin\\Views\\TheLoai\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-26T00:26:49.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240926002800_TaoTheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Data\\Migrations\\20240926002800_TaoTheLoai.cs",
+              "RelativeDocumentMoniker": "project\\Data\\Migrations\\20240926002800_TaoTheLoai.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Data\\Migrations\\20240926002800_TaoTheLoai.cs",
+              "RelativeToolTip": "project\\Data\\Migrations\\20240926002800_TaoTheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:28:00.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "project\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "project\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:38:31.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TheLoai.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Models\\TheLoai.cs",
+              "RelativeDocumentMoniker": "project\\Models\\TheLoai.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\Models\\TheLoai.cs",
+              "RelativeToolTip": "project\\Models\\TheLoai.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T00:24:31.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "project\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "project\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-26T00:20:58.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": ".gitinore",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\.gitinore",
+              "RelativeDocumentMoniker": "project\\.gitinore",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\Documents\\LTWEB\\ASP-WEB\\project\\project\\.gitinore",
+              "RelativeToolTip": "project\\.gitinore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-26T00:13:43.646Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
