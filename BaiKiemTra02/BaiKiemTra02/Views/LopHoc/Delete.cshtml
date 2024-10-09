@@ -1,7 +1,7 @@
 ﻿@model LopHoc
 
 <div class="container">
-    <h3> Xóa lớp học</h3>
+    <h3> Xóa Lớp Học</h3>
     <form method="post" asp-action="DeleteConfirm">
         <input asp-for="Id" type="hidden" />
         <div asp-validation-summary="All" class="text-danger"></div>
@@ -32,6 +32,10 @@
             <input asp-for="SoLuongSinhVien" type="number" class="form-control" />
             <span asp-validation-for="SoLuongSinhVien" class="text-danger"></span>
         </div>
+
+        <button type="submit" class="btn btn-primary"> Lưu </button>
+        <a asp-action="Index" class="btn btn-secondary"> Hủy </a>
+    </form>
 
 </div>
 

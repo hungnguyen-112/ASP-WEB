@@ -60,6 +60,16 @@ namespace BaiKiemTra02.Controllers
             }
             return View();
         }
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            if (id == 0)
+            {
+                return NotFound();
+            }
+            var lophoc = _db.lopHoc.Find(id);
+            return View(lophoc);
+        }
         [HttpPost]
         public IActionResult DeleteConfirm(int id)
         {

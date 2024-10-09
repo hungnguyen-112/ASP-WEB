@@ -36,6 +36,9 @@ namespace BaiKiemTra02.Data.Migrations
                     b.Property<int>("NamRaTruong")
                         .HasColumnType("int");
 
+                    b.Property<string>("Name")
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<int>("SoLuongSinhVien")
                         .HasColumnType("int");
 

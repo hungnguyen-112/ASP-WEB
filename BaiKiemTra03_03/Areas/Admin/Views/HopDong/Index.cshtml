@@ -1,0 +1,40 @@
+﻿
+<div class="container">
+    <form asp-action="Search" method="get">
+        <input type="text" name="searchString" placeholder="Nhập thông tin hợp đồng cần tìm ..."
+               value="@ViewBag.SearchString" />
+        <input type="submit" value="Tìm kiếm" />
+    </form>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Mã hợp đồng</th>
+                <th>Tên hợp đồng</th>
+                <th>Ngày ký kết</th>
+                <th>Khách hàng</th>
+                <th>Giá trị hợp đồng</th>
+                <th>Chức năng</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.HopDong)
+            {
+                <tr>
+                    <td>@item.ContractId</td>
+                    <td>@item.ContractName</td>
+                    <td>@item.SignDate.ToShortDateString()</td>
+                    <td>@item.CustomerName</td>
+                    <td>@item.ContractValue.ToString("C")</td>
+                    <td>
+                        <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                        <a asp-action="Details" asp-route-id="@item.Id">Detail</a> |
+                        <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a asp-controller="HopDong" asp-action="Create" class="btn btn-primary">Thêm mới</a>
+</div>
+

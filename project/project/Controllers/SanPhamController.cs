@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using project.Data;
@@ -8,10 +9,10 @@ using project.Models;
 namespace project.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "Admin")]
     public class SanPhamController : Controller
     {
         private readonly ApplicationDbContext _db;
-        private int id;
 
         public SanPhamController(ApplicationDbContext db)
         {
@@ -59,7 +60,17 @@ namespace project.Controllers
             _db.SaveChanges();
             return RedirectToAction("Index");
         }
-
-
+        [HttpPost]
+        public IActionResult Delete(int id)
+        {
+           var sanpham = _db.SanPham.FirstOrDefault(sp => sp.Id == id);
+            if (sanpham == null)
+            {
+                return NotFound();
+            }
+            _db.SanPham.Remove(sanpham);
+            _db.SaveChanges();
+            return Json(new {success=true});
+        }
     }
 }

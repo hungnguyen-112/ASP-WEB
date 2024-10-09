@@ -1,0 +1,47 @@
+﻿@model HopDong
+
+<div class="container">
+    <h3>Xóa Hợp Đồng</h3>
+    <form method="post" asp-action="DeleteConfirm">
+        <input asp-for="Id" type="hidden" />
+        <div asp-validation-summary="All" class="text-danger"></div>
+
+        <!-- Mã hợp đồng -->
+        <div class="form-group">
+            <label asp-for="ContractId">Mã hợp đồng</label>
+            <input asp-for="ContractId" type="text" class="form-control" disabled />
+            <span asp-validation-for="ContractId" class="text-danger"></span>
+        </div>
+
+        <!-- Tên hợp đồng -->
+        <div class="form-group">
+            <label asp-for="ContractName">Tên hợp đồng</label>
+            <input asp-for="ContractName" type="text" class="form-control" disabled />
+            <span asp-validation-for="ContractName" class="text-danger"></span>
+        </div>
+
+        <!-- Ngày ký kết -->
+        <div class="form-group">
+            <label asp-for="SigningDate">Ngày ký kết</label>
+            <input asp-for="SigningDate" type="date" class="form-control" disabled />
+            <span asp-validation-for="SigningDate" class="text-danger"></span>
+        </div>
+
+        <!-- Khách hàng -->
+        <div class="form-group">
+            <label asp-for="Customer">Khách hàng</label>
+            <input asp-for="Customer" type="text" class="form-control" disabled />
+            <span asp-validation-for="Customer" class="text-danger"></span>
+        </div>
+
+        <!-- Giá trị hợp đồng -->
+        <div class="form-group">
+            <label asp-for="ContractValue">Giá trị hợp đồng</label>
+            <input asp-for="ContractValue" type="number" class="form-control" disabled />
+            <span asp-validation-for="ContractValue" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-danger">Xóa</button>
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

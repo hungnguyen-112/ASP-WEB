@@ -1,28 +1,36 @@
-﻿@model TheLoai
+﻿@model NhanVien
 
 <div class="container">
-    <h3> Xóa thể loại</h3>
+    <h3> Xóa Nhân Viên </h3>
     <form method="post" asp-action="DeleteConfirm">
-        <input asp-for="Id" type="hidden"/>
+        <input asp-for="Id" type="hidden" />
         <div asp-validation-summary="All" class="text-danger"></div>
+
+        <!-- Mã nhân viên -->
         <div class="form-group">
-            <label asp-for="Name"> Tên thể loại </label>
-            <input asp-for="Name" type="text" class="form-control" />
-            <span asp-validation-for="Name" class="text-danger"></span>
+            <label asp-for="MaNhanVien"> Mã nhân viên </label>
+            <input asp-for="MaNhanVien" type="text" class="form-control" disabled />
+            <span asp-validation-for="MaNhanVien" class="text-danger"></span>
         </div>
 
+        <!-- Tên nhân viên -->
         <div class="form-group">
-            <label asp-for="DateCreated"> Ngày tạo </label>
-            <input asp-for="DateCreated" type="date" class="form-control" />
-            <span asp-validation-for="DateCreated" class="text-danger"></span>
+            <label asp-for="TenNhanVien"> Tên nhân viên </label>
+            <input asp-for="TenNhanVien" type="text" class="form-control" disabled />
+            <span asp-validation-for="TenNhanVien" class="text-danger"></span>
         </div>
 
-        <button type="submit" class="btn btn-primary"> Xóa </button>
+        <!-- Ngày bắt đầu làm việc -->
+        <div class="form-group">
+            <label asp-for="NgayBatDauLamViec"> Ngày bắt đầu làm việc </label>
+            <input asp-for="NgayBatDauLamViec" type="date" class="form-control" disabled />
+            <span asp-validation-for="NgayBatDauLamViec" class="text-danger"></span>
+        </div>
+
+        <button type="submit" class="btn btn-danger"> Xóa </button>
         <a asp-action="Index" class="btn btn-secondary"> Hủy </a>
     </form>
-
 </div>
-
 @section Scripts {
     @{
         <partial name="_ValidationScriptsPartial" />

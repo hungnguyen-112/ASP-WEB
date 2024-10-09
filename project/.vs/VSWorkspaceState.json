@@ -1,7 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\project",
+    "\\project\\Areas",
+    "\\project\\Areas\\Identity",
+    "\\project\\Areas\\Identity\\Pages",
+    "\\project\\Areas\\Identity\\Pages\\Account"
   ],
-  "SelectedNode": "\\project.sln",
+  "SelectedNode": "\\project\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
   "PreviewInSolutionExplorer": false
 }
